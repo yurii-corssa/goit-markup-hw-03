@@ -263,6 +263,14 @@ button {
 
 .logo-light {
   color: var(--light-color);
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-light {
   margin-bottom: 16px;
 }
 
